@@ -39,8 +39,6 @@ DSA-Complete-Roadmap/
 
 ---
 
-# 🧠 README.md (Main Content)
-
 ## 🚀 DSA Complete Roadmap (Beginner → Advanced in 6 Months)
 
 If you're preparing for **placements / product-based companies**, this roadmap will take you from **zero → strong DSA problem solver**.
