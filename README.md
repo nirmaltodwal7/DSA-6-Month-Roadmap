@@ -1,9 +1,3 @@
-Got it — I’ll create a **complete GitHub repository structure + content (README.md)** for your **6-month DSA roadmap (Beginner → Advanced)** like a senior developer would design for placements 🚀
-
-You can directly copy this and push to GitHub.
-
----
-
 # 📁 GitHub Repo Structure
 
 ```
