@@ -244,7 +244,7 @@ By end of 6 months:
 
 ---
 
-# 🔥 Bonus Tips (Senior Developer Advice)
+# 🔥 Bonus Tips 
 
 * Don’t just solve → Understand WHY
 * Maintain error notebook
