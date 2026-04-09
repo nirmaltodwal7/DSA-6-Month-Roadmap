@@ -1,4 +1,4 @@
-# 📁 GitHub Repo Structure
+# 📁 DSA Complete Roadmap
 
 ```
 DSA-Complete-Roadmap/
