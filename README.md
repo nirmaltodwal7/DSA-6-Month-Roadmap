@@ -1,4 +1,4 @@
-# 📁 DSA Complete Roadmap
+# 📁 DSA 6 Month Complete Roadmap
 
 ```
 DSA-Complete-Roadmap/
